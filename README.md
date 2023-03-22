@@ -1,0 +1,2 @@
+# NextjsPlanetScale
+NextjsPlanetScale
